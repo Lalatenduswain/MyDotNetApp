@@ -31,3 +31,4 @@
 /home/lalatendu/.net_project/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.pdb
 /home/lalatendu/.net_project/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.genruntimeconfig.cache
 /home/lalatendu/.net_project/MyDotNetApp/obj/Debug/net8.0/ref/MyDotNetApp.dll
+/home/lalatendu/.net_project/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.sourcelink.json
